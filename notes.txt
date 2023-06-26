@@ -1,0 +1,40 @@
+Optimizing Database Operations
+   ├─ Fundamentals
+   │     ├─ Database Performance Basics
+   │     ├─ Query Optimization
+   │     └─ Indexing Strategies
+   │
+   ├─ Data Loading
+   │     ├─ Data Preparation
+   │     ├─ Load Job Management
+   │     └─ File Formats and Compression
+   │
+   ├─ User and Resource Management
+   │     ├─ Resource Allocation
+   │     ├─ Workload Groups
+   │     └─ Access Control
+   │
+   ├─ Observing Database Behavior
+   │     ├─ Monitoring Metrics
+   │     ├─ Performance Analysis
+   │     └─ Workload Assessment
+   │
+   ├─ Indexing and Query Optimization
+   │     ├─ Index Design
+   │     ├─ Query Analysis
+   │     └─ Performance Tuning
+   │
+   ├─ Data Partitioning and Sharding
+   │     ├─ Partitioning Strategies
+   │     ├─ Data Distribution
+   │     └─ Scalability Considerations
+   │
+   ├─ Caching and Memory Management
+   │     ├─ Caching Mechanisms
+   │     ├─ Eviction Policies
+   │     └─ Data Compression
+   │
+   └─ Connection Pooling and Management
+         ├─ Connection Pooling Basics
+         ├─ Configuration Settings
+         └─ Connection Lifecycle
